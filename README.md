@@ -10,18 +10,4 @@ Welcome to the Periodic Table Explorer! This is a simple frontend project that a
 - **Detailed Information**: Once an element is selected, the application fetches and displays comprehensive details about the chosen element.
 - **Responsive Design**: The application is designed to work seamlessly across various devices and screen sizes.
 
-## Getting Started
-
-### Prerequisites
-
-Make sure you have the following software installed on your machine:
-
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-
-### Installation
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/periodic-table-explorer.git
+## https://rahul-e-periodic-table.netlify.app/
